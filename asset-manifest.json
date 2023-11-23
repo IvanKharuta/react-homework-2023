@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react-homework-2023/static/css/main.e6c13ad2.css",
-    "main.js": "/react-homework-2023/static/js/main.81a67856.js",
+    "main.css": "/react-homework-2023/static/css/main.75f0b1fc.css",
+    "main.js": "/react-homework-2023/static/js/main.38fd855d.js",
     "static/js/787.23ddee0f.chunk.js": "/react-homework-2023/static/js/787.23ddee0f.chunk.js",
+    "static/media/search-form-background-image.png": "/react-homework-2023/static/media/search-form-background-image.6fc56bf2c2b759f174ae.png",
     "index.html": "/react-homework-2023/index.html",
-    "main.e6c13ad2.css.map": "/react-homework-2023/static/css/main.e6c13ad2.css.map",
-    "main.81a67856.js.map": "/react-homework-2023/static/js/main.81a67856.js.map",
+    "main.75f0b1fc.css.map": "/react-homework-2023/static/css/main.75f0b1fc.css.map",
+    "main.38fd855d.js.map": "/react-homework-2023/static/js/main.38fd855d.js.map",
     "787.23ddee0f.chunk.js.map": "/react-homework-2023/static/js/787.23ddee0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.81a67856.js"
+    "static/css/main.75f0b1fc.css",
+    "static/js/main.38fd855d.js"
   ]
 }
