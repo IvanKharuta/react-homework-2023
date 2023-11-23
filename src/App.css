@@ -1,0 +1,13 @@
+body {
+    background-color: #555;
+}
+
+button {
+    cursor: pointer;
+}
+
+.App {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #fff;
+}
